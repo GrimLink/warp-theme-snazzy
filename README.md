@@ -4,6 +4,10 @@ Elegant [Warp](https://warp.dev/) theme with bright colors
 
 ![Preview](./screenshot.jpg)
 
+## Install
+
+Copy the Snazzy.yml into to the `~/.warp/themes`
+
 ## Tip
 
 To get the exact same look as in the screenshot, you need to use the [Pure](https://github.com/sindresorhus/pure) prompt, Menlo font, and the [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) plugin to have commands highlighted.
