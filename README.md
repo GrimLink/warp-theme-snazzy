@@ -12,7 +12,7 @@ Copy the `snazzy.yaml` (and any accent version) into to the `~/.warp/themes`
 
 To get the exact same look as in the screenshot, you need to;
 
-- Menlo font
+- Use the Menlo font
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) plugin to have commands highlighted.
 
 ## Related
