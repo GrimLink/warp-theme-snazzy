@@ -6,7 +6,7 @@ Elegant [Warp](https://warp.dev/) theme with bright colors
 
 ## Install
 
-Copy the `Snazzy.yml` into to the `~/.warp/themes`
+Copy the `snazzy.yaml` (and any accent version) into to the `~/.warp/themes`
 
 ### Tip
 
